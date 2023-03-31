@@ -1,0 +1,30 @@
+ll fun(ll index , ll bit , vector<vector<ll>> &dp, string & str){ 
+    if(index  == n){ 
+      return 1e18 ;
+     }
+     else{  
+         ll ans = 1e18 ;  
+         if(bit == 1){ 
+             if(str[i] == 'e'){ 
+                
+             }
+         }  
+         else if( bit  ==2 ){ 
+         }  
+         else if( bit  ==3 ){ 
+         }
+         else if( bit  ==4 ){ 
+         }
+         else if( bit  ==5 ){ 
+         }  
+	   else if( bit  == 6 ){  
+           
+         }
+
+
+
+     }
+
+}	 
+
+// 10.10.254

@@ -1,0 +1,25 @@
+Key Moments in Crud App
+
+
+npm init 
+when we install the req thing it just fill and creates more object
+
+6.27 
+node -> nodemon
+nodemon modules allows us to restart the serve whenever we make changes
+
+9 
+MCV structure
+icons font awesome and cdjsn 
+
+styling html 
+we include the link to this html doc css sheets 
+google fonts  
+
+
+
+instead of storing all the data in the local storage we are going to store in the cloud database 
+
+
+2.07 
+axios
